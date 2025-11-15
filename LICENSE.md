@@ -3,7 +3,7 @@
 **Public CDN Assets License**  
 **Version 1.0**  
 **Date: November 15, 2025**  
-**Copyright (c) 2025 [Your Name or Username, e.g., Fmasterpro27]. All rights reserved.**
+**Copyright (c) 2025 openai-4bit. All rights reserved.**
 
 #### Preamble
 This license governs the use of all media assets (including but not limited to images, videos, thumbnails, and other files) hosted in the GitHub repository `https://github.com/openai-4bit/public-cdn-assests` (the "Repository"). These assets are intended for personal, non-commercial use as part of a public content delivery network (CDN) for adult-oriented websites. All content is created and provided by consenting adults, aged 18+ or the applicable age of majority in your jurisdiction. By accessing or using these assets, you confirm you are of legal age and agree to comply with all applicable laws regarding adult material.
